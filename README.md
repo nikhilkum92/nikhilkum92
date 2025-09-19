@@ -7,7 +7,7 @@
 <h3 align="center">Full Stack Developer • Problem Solver • Tech Enthusiast</h3>                           
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nikhilkum92/nikhilkum92/main/dev-desk.jpg" alt="My Dev Desk" width="700"/>
+  <img src="https://github.com/nikhilkum92/nikhilkum92/blob/main/dev-desk.jpg" alt="My Dev Desk" width="700"/>
 </p>
 
 <p align="center"><i>"Transforming ideas into scalable code and impactful solutions."</i></p>
