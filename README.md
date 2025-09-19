@@ -34,7 +34,7 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://[linkedin.com/in](https://www.linkedin.com/in/nikhil-kumawat-3a3401335/) <!-- add your linkedin -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kumawat-3a3401335/) <!-- add your linkedin -->
 [![Email](https://img.shields.io/badge/Email-%2312100E.svg?style=flat&logo=gmail&logoColor=white)](mailto:nk2423797@gmail.com) <!-- replace with your email -->
 
 ---
